@@ -6,23 +6,23 @@ This project contains
 2. Python Flask Server backend
 
 
-Getting Started
+## Getting Started
 1. python server.py
 
 
-Prerequisites
+## Prerequisites
 1. Google Cloud Platform account.
 2. Microsoft Azure Machine Learning account.
 
 
-Contributing
+## Contributing
 - Alvin Tan Jian Jia
 
-Versioning
+## Versioning
 1.0
 
-Authors
+## Authors
  - Alvin Tan Jian Jia
 
-Acknowledgments
+## Acknowledgments
 
